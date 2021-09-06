@@ -1,5 +1,5 @@
 # api_yamdb
-
+![example workflow](https://github.com/Trvg51/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg)
 ### Описание
 
 Данный проект позволяет реализовать API - сервис с базой данных различных произведений (фильмы\музыка\книги и тд.)
