@@ -3,6 +3,7 @@ version: '3.8'
 services:
 
   db:
+    image: postgres:12.4
     build: .
     container_name: db
     networks:
