@@ -15,7 +15,6 @@ Docker 20.10.8
 ### Запуск проекта в dev-режиме
 
 - Открыть файл и прочитать ".env.template"
-
 - В командной строке в папке с файлом manage.py выполнить команды:
 - docker-compose up
 - docker-compose exec web python manage.py migrate
